@@ -122,11 +122,10 @@ background-color: #FFFFFF;
 }
 
 .style15 {
-white-space: nowrap;  
-text-align: center;  
 border: 1px solid #FF0000;
+text-align: center;  
 height: 28px;
-width: 33px;
+width: 33%;
 text-decoration: none ;
 }
 
