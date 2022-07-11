@@ -16,7 +16,7 @@ function iecompattest()
   return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
 }
 
-var i, doc_width = 600, doc_height = 180;
+var i, doc_width = 500, doc_height = 180;
  
 if (ns6up)
 {
