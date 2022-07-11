@@ -18,7 +18,7 @@ function iecompattest()
 
 var dx, xp, yp;
 var am, stx, sty;
-var i, doc_width = 960, doc_height = 310;
+var i, doc_width = 360, doc_height = 200;
  
 if (ns6up)
 {
