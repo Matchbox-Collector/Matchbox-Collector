@@ -16,7 +16,7 @@ function iecompattest()
   return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
 }
 
-var i, doc_width = 500, doc_height = 180;
+var i, doc_width = 500, doc_height = 80;
  
 if (ns6up)
 {
@@ -49,11 +49,11 @@ for (i = 0; i < no; ++ i)
   {
       if (i == 0)
       {
-        document.write("<div id=\"dot"+ i +"\" style=\"POSITION: absolute; Z-INDEX: "+ i +"; VISIBILITY: visible; TOP: 300px; LEFT: 15px;\"><a href=\"http://rftactical.darkbb.com/index.htm\"><img src='"+snowsrc+"' border=\"0\"><\/a><\/div>");
+        document.write("<div id=\"dot"+ i +"\" style=\"POSITION: absolute; Z-INDEX: "+ i +"; VISIBILITY: visible; TOP: 5px; LEFT: 15px;\"><a href=\"http://rftactical.darkbb.com/index.htm\"><img src='"+snowsrc+"' border=\"0\"><\/a><\/div>");
       }
       else
       {
-        document.write("<div id=\"dot"+ i +"\" style=\"POSITION: absolute; Z-INDEX: "+ i +"; VISIBILITY: visible; TOP: 300px; LEFT: 15px;\"><img src='"+snowsrc+"' border=\"0\"><\/div>");
+        document.write("<div id=\"dot"+ i +"\" style=\"POSITION: absolute; Z-INDEX: "+ i +"; VISIBILITY: visible; TOP: 5px; LEFT: 15px;\"><img src='"+snowsrc+"' border=\"0\"><\/div>");
       }
   }
 }
