@@ -41,7 +41,7 @@ for (i = 0; i < no; ++ i)
 {
   dx[i] = 0;
   xp[i] = Math.random()*(doc_width-50);
-  yp[i] = Math.random()*doc_height-500;
+  yp[i] = Math.random()*doc_height-700;
   am[i] = Math.random()*20;
   stx[i] = 0.02 + Math.random()/10;
   sty[i] = 0.7 + Math.random();
