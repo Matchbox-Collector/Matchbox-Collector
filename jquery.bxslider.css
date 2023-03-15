@@ -91,8 +91,8 @@ ul.bxslider {
 /* DIRECTION CONTROLS (NEXT / PREV) */
 .bx-wrapper .bx-prev {
   left: 10px;
-    background: #fff no-repeat 0 -32px;
-    background: url('https://i.imgur.com/skASAIa.png') no-repeat 0 -32px;
+     background: url('https://i.imgur.com/skASAIa.png') no-repeat 0 -32px;
+     position: absolute;
 }
 .bx-wrapper .bx-prev:hover,
 .bx-wrapper .bx-prev:focus {
