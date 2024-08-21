@@ -53,7 +53,6 @@ ul.bxslider {
   left: 0;
   z-index: 2000;
 }
-  
 
 /* DIRECTION CONTROLS (NEXT / PREV) */
 .bx-wrapper .bx-prev {
@@ -117,11 +116,7 @@ ul.bxslider {
 .bx-wrapper .bx-controls-auto .bx-stop:focus {
   background-position: -86px -33px;
 }
-/* PAGER WITH AUTO-CONTROLS HYBRID LAYOUT */
-.bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-pager {
-  text-align: left;
-  width: 80%;
-}
+
 .bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-controls-auto {
   right: 0;
   width: 35px;
