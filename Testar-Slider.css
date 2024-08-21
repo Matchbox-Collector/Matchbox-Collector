@@ -14,15 +14,15 @@
   max-width: 100%;
   display: block;
 }
+ul.bxslider {
+  list-style: none;
+}
+
 .bxslider {
   margin: 0;
   padding: 0;
 }
 
-.bx-viewport {
-  /*fix other elements on the page moving (on Chrome)*/
-  -webkit-transform: translatez(0);
-}
 /** THEME
 ===================================*/
 .bx-wrapper {
