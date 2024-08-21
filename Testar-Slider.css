@@ -2,11 +2,6 @@
 ===================================*/
 /** RESET AND LAYOUT
 ===================================*/
-
-.bx-viewport {
-  /*fix other elements on the page moving (on Chrome)*/
-  -webkit-transform: translatez(0);
-}
 .bx-wrapper {
   position: relative;
   margin-bottom: 60px;
