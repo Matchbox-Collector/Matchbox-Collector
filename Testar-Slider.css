@@ -7,13 +7,17 @@
   display: block;
 }
 
+/**Delimita o controle dentro da box**/
 .bx-wrapper {
   position: relative;
   margin-bottom: 60px;
   padding: 0;
 }
 
-
+.bx-wrapper .bx-pager-item {
+  font-size: 0;
+  line-height: 0;
+}
 
 /** THEME
 ===================================*/
