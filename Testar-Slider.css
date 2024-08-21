@@ -3,12 +3,18 @@
 /** RESET AND LAYOUT
 ===================================*/
 .bx-wrapper img {
-  max-width: 100%;
+  max-width: 50%;
   display: block;
 }
+
 .bxslider {
   margin: 0;
   padding: 0;
+}
+
+.bx-wrapper .bx-pager-item {
+  font-size: 0;
+  line-height: 0;
 }
 
 
