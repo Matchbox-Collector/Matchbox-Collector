@@ -14,6 +14,7 @@
   padding: 0;
 }
 
+/**Tira o Maldito controle inferior**/
 .bx-wrapper .bx-pager-item {
   font-size: 0;
   line-height: 0;
