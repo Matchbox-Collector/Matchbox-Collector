@@ -2,10 +2,10 @@
 ===================================*/
 /** RESET AND LAYOUT
 ===================================*/
-.bx-wrapper img {
+/**.bx-wrapper img {
   max-width: 100%;
   display: block;
-}
+}*/
 
 /**Delimita os controles dentro da box**/
 .bx-wrapper {
