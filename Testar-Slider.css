@@ -2,15 +2,15 @@
 ===================================*/
 /** RESET AND LAYOUT
 ===================================*/
-/*.bx-wrapper img {
+.bx-wrapper img {
   max-width: 100%;
   display: block;
-}*/
+}
 
 /**Delimita os controles dentro da box**/
 .bx-wrapper {
   position: relative;
-  margin-bottom: 60px;
+  margin-bottom: 10px;
   padding: 0;
 }
 
