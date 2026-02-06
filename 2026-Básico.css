@@ -3,7 +3,7 @@
 /** RESET AND LAYOUT
 ===================================*/
 .bx-wrapper img {
-  max-width: 80%;
+  max-width: 100%;
   display: block;
 }
 
@@ -106,4 +106,5 @@
   display: block;
   font-size: .85em;
   padding: 10px;
+
 }
